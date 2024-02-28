@@ -1,5 +1,5 @@
 # Golang
-## const
+## const dan iota
 Dua konsep yang sering digunakan bersama-sama dalam bahasa pemrograman Go: variabel konstan dan iota.
 
 ###Variabel Konstan:
