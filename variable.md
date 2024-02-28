@@ -58,7 +58,7 @@ func main() {
 }
 ```
 
-Pada contoh tersebut, variabel umur diinisialisasi bersamaan dengan deklarasinya dengan nilai 17, sementara variabel nama diinisialisasi setelah dideklarasikan dengan nilai "Himbar". Dalam kedua kasus tersebut, variabel memiliki nilai awal yang telah ditetapkan sebelum digunakan dalam program.
+Pada contoh tersebut, variabel `umur` diinisialisasi bersamaan dengan deklarasinya dengan nilai `17`, sementara variabel `nama` diinisialisasi setelah dideklarasikan dengan nilai `"Himbar"`. Dalam kedua kasus tersebut, variabel memiliki nilai awal yang telah ditetapkan sebelum digunakan dalam program.
 
 ### 3. Deklarasi dan Inisialisasi Tanpa Tipe Data:
 Go memiliki kemampuan untuk menentukan tipe data secara otomatis berdasarkan nilai yang diberikan (inferensi tipe). Ini dapat digunakan dalam kasus inisialisasi variabel tanpa menyebutkan tipe datanya.
@@ -73,7 +73,7 @@ Contoh:
 var umur = 25
 ```
 
-Menggunakan sintaks pendek untuk mendeklarasikan dan menginisialisasi variabel tanpa menyertakan tipe datanya secara eksplisit. Hal ini disebut sebagai "type inference" atau "penalaran tipe". Dalam kasus ini, tipe data variabel akan ditentukan oleh kompilator berdasarkan nilai yang diberikan.
+Menggunakan sintaks pendek untuk mendeklarasikan dan menginisialisasi variabel tanpa menyertakan tipe datanya secara eksplisit. Hal ini disebut sebagai `"type inference"` atau `"penalaran tipe"`. Dalam kasus ini, tipe data variabel akan ditentukan oleh kompilator berdasarkan nilai yang diberikan.
 
 Berikut adalah contoh deklarasi dan inisialisasi variabel tanpa tipe data secara eksplisit dalam Go:
 
