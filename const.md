@@ -67,10 +67,8 @@ Dalam contoh di atas, `Senin`, `Selasa`, dan seterusnya merupakan konstanta yang
 
 ### Keuntungan Variabel Konstan:
 1. Ketegasan Nilai: 
-
- Konstanta menyediakan nilai yang tetap dan tidak dapat diubah, sehingga meningkatkan kejelasan dan keamanan program.
+   - Konstanta menyediakan nilai yang tetap dan tidak dapat diubah, sehingga meningkatkan kejelasan dan keamanan program.
 
 2. Efisiensi Kompilasi: 
-
- Nilai konstan ditentukan selama kompilasi, sehingga tidak ada overhead untuk menentukan nilainya selama runtime.
+   - Nilai konstan ditentukan selama kompilasi, sehingga tidak ada overhead untuk menentukan nilainya selama runtime.
 Dengan menggunakan variabel konstan, Anda dapat menyimpan nilai-nilai yang tetap dan memastikan bahwa nilai-nilai tersebut tidak akan berubah selama eksekusi program, meningkatkan kejelasan dan keamanan program Anda.
