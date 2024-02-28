@@ -3,6 +3,7 @@
 Dua konsep yang sering digunakan bersama-sama dalam bahasa pemrograman Go: variabel konstan dan iota.
 
 ###Variabel Konstan:
+
 Variabel konstan adalah variabel yang nilainya tetap dan tidak dapat diubah selama proses eksekusi program. Dalam Go, konstanta dideklarasikan menggunakan kata kunci `const`. Konstanta dapat didefinisikan untuk berbagai tipe data termasuk `string`, `integer`, dan `boolean`.
 
 Contoh penggunaan variabel konstan dalam Go:
