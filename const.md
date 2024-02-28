@@ -40,7 +40,7 @@ func main() {
 }
 ```
 
-###Penggunaan Konstan dengan Tipe Data Enumerasi:
+### Penggunaan Konstan dengan Tipe Data Enumerasi:
 Dalam Go, konstan juga dapat digunakan untuk membuat enumerasi dengan menggunakan iota.
 
 ```go
