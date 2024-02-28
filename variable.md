@@ -14,6 +14,9 @@ Contoh:
 
 ```go 
 var nama string
+```
+
+```go 
 var umur int
 ```
 
